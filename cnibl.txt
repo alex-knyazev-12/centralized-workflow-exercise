@@ -1,0 +1,5 @@
+Be aware of the different behaviours of ´git checkout´.
+
+´git checkout <filename>´ or ´git checkout <hash>´ overwrites <filename> with the file from the staging area or latest commit or in the latter case, *all* files from the commit corresponding to <hash>
+
+´git checkout <branchname>´ switches to the branch of that name (no overwriting).
