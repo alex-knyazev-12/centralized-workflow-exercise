@@ -1,0 +1,9 @@
+ingredients
+* onion
+* celery
+* carrots
+* garlic
+* peeled tomato
+* pepper
+* veg stock cube
+* salt
