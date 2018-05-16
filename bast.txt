@@ -1,0 +1,3 @@
+git commit -v  (verbose)
+
+then when you edit your commit message, you see the difference
